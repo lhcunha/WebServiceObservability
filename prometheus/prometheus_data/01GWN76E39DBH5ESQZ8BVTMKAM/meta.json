@@ -1,0 +1,17 @@
+{
+	"ulid": "01GWN76E39DBH5ESQZ8BVTMKAM",
+	"minTime": 1680033604067,
+	"maxTime": 1680040800000,
+	"stats": {
+		"numSamples": 559680,
+		"numSeries": 850,
+		"numChunks": 4664
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GWN76E39DBH5ESQZ8BVTMKAM"
+		]
+	},
+	"version": 1
+}
