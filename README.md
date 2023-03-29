@@ -1,7 +1,7 @@
 # WebServiceObservability
 On this project I explore observability by monitoring a webservice/API using the following stack: Prometheus, Grafana and AlertManager.
 
-OBJECTIVE:
+GOAL:
 
 The objective of this project was to explore and demonstrate the monitoring capabilities of a stack composed by Prometheus, Grafana and AlertManager
 
