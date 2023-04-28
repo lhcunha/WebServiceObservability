@@ -14,7 +14,7 @@ PREREQUISITES:
 
 The major steps followed on this project were:
 
-- Created a basic webservice using Java Springboot
+- Used a basic webservice using Java Springboot. (the webservice was not developed by me)
 - Instrumented the webservice
 - Outsourced the webservice's metrics using Spring's actuator
 - Exposed those metrics to Prometheus using the Micrometer
